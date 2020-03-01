@@ -1,2 +1,2 @@
 # cw1
-Maria Łubińska 17c s16452
+Maria Łubińska s16452 17c
